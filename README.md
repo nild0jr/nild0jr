@@ -1,4 +1,4 @@
-# Eae, de boa?
+ Eae, de boa?
 
 ---
 
@@ -10,6 +10,7 @@
 
 <br>
 
+### Estatísticas
 <!-- Cartão de Sequência -->
 <a href="https://github.com/nild0jr">
   <img src="https://streak-stats.demolab.com?user=nild0jr&theme=dark" alt="Minha Sequência" />
