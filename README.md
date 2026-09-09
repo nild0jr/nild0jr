@@ -19,7 +19,7 @@ Meu nome é **[SEU NOME]**, mas pode me chamar de **[SEU APELIDO]**. Sou desenvo
 
 <!-- Gráfico de Atividade -->
 <a href="https://github.com/nild0jr">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nild0jr&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de Atividade" />
+  <img src="https://ghstats.dev/api/card?username=nild0jr&theme=tokyonight" alt="Estatísticas do GitHub" />
 </a>
 
 <br>
