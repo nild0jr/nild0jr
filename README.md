@@ -10,8 +10,16 @@ Meu nome é **[SEU NOME]**, mas pode me chamar de **[SEU APELIDO]**. Sou desenvo
 
 <br>
 
+<!-- Cartão de Sequência -->
 <a href="https://github.com/nild0jr">
-  <img src="https://metrics.lecoq.io/nild0jr?base.theme=dark" alt="Minhas Métricas" />
+  <img src="https://streak-stats.demolab.com?user=nild0jr&theme=dark" alt="Minha Sequência" />
+</a>
+
+<br><br>
+
+<!-- Gráfico de Atividade -->
+<a href="https://github.com/nild0jr">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nild0jr&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de Atividade" />
 </a>
 
 <br>
