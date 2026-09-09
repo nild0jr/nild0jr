@@ -1,4 +1,4 @@
-# Olá, eu sou Nildo Coutinho. 👋
+# Nildo Coutinho. 👋
 
 <!-- Seção de Contatos -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nildo-coutinho-92a585434/)
@@ -21,7 +21,7 @@ Desenvolvedor(a) de Software
 ### Estatísticas
 
 <!-- O 'theme=dark' deixa igual ao da imagem. Lembre-se de trocar o 'user' pelo seu usuário do GitHub! -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USUARIO_GITHUB_AQUI&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nild0jr&theme=dark)](https://git.io/streak-stats)
 
 ---
-*See you, space cowboy...*
+*Make it work*
