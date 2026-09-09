@@ -10,16 +10,16 @@ Meu nome é **[SEU NOME]**, mas pode me chamar de **[SEU APELIDO]**. Sou desenvo
 
 <br>
 
-<!-- Cartões de Estatísticas do GitHub -->
-<!-- Cartões de Estatísticas do GitHub (Usando HTML) -->
+<!-- Cartão de Estatísticas (Alternativa) -->
 <a href="https://github.com/nild0jr">
-  <img src="https://github-readme-stats.vercel.app/api?username=nild0jr&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nild0jr&theme=dark" alt="Minhas Estatísticas" />
 </a>
 
 <br><br>
 
+<!-- Cartão de Linguagens (Alternativa) -->
 <a href="https://github.com/nild0jr">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nild0jr&layout=compact&theme=dark" alt="Linguagens Mais Usadas" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nild0jr&theme=dark" alt="Linguagens Mais Usadas" />
 </a>
 
 <br>
