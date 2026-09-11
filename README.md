@@ -19,7 +19,7 @@
 <br><br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-langs?username=nild0jr&theme=dracula" alt="Top Linguagens" />
+  <img src="https://metrics.lecoq.io/nild0jr?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=6" alt="Linguagens mais usadas" />
 </div>
 
 <br>
