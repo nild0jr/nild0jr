@@ -18,9 +18,9 @@
 
 <br><br>
 
-<a href="https://github.com/nild0jr">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nild0jr&layout=compact&theme=dark" alt="Linguagens Mais Usadas" />
-</a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nild0jr&layout=compact&theme=dracula" alt="Top Linguagens" />
+</div>
 
 <br>
 
