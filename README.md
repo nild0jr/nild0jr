@@ -19,7 +19,7 @@
 <br><br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nild0jr&layout=compact&theme=dracula" alt="Top Linguagens" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-langs?username=nild0jr&theme=dracula" alt="Top Linguagens" />
 </div>
 
 <br>
